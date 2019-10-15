@@ -21,29 +21,20 @@ for every t-shirt sold a commision is given to the QGIS project.
    :width: 120 px
    :align: center
 
-Localized shops
----------------
+Shops
+-----
 
-We co-operate with spreadshirt.com. This services has
-localized shops around the world, so choose the store nearest to you
-to save on shipping costs.
+For the official QGIS items we co-operate with Spreadshirt. They deliver the products in many countries in the world.
+
+http://shop.spreadshirt.net/qgis/
 
 .. figure:: /static/site/about/images/shop_tshirt_2017.png
    :alt: QGIS tshirt
    :width: 120 px
    :align: center
 
-Here is a list of some of the 'shops' around the world, but feel free to try to
-find one for you own country, or ask spreadshirt to open one in your country.
+Some more creative (but unofficial) designs can be found in the Red Bubble shop.
 
+https://www.redbubble.com/shop/qgis
 
-- http://shop.spreadshirt.com/qgis/ (US)
-
-- http://shop.spreadshirt.net/qgis/ (Europe)
-
-
-.. figure:: /static/site/about/images/shop_buttons_2017.png
-   :alt: QGIS buttons
-   :width: 120 px
-   :align: center
    
